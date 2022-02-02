@@ -32,7 +32,7 @@ namespace LaunchDarkly.Api.Model {
     /// </summary>
     [DataMember(Name="role", EmitDefaultValue=false)]
     [JsonProperty(PropertyName = "role")]
-    public Role Role { get; set; }
+    public string Role { get; set; }
 
     /// <summary>
     /// Gets or Sets Email
