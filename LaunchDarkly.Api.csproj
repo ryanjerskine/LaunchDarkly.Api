@@ -10,8 +10,8 @@
     <PackageTags>LaunchDarkly, FeatureFlag, FeatureToggle</PackageTags>
     <Copyright></Copyright>
     <Description>Auto-generated client for the LaunchDarkly REST Api.</Description>
-    <PackageId>LaunchDarkly.Api</PackageId>
-    <Version>3.6.0</Version>
+    <PackageId>Dama.LaunchDarkly.Api</PackageId>
+    <Version>3.6.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
